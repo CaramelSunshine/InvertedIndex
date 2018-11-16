@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverted_Index_Campbell_Reid", "Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid.csproj", "{3F54CD94-8D18-4763-8ADB-1AFA692377ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMR_Inverted_index_Unit_Testing", "CMR_Inverted_index_Unit_Testing\CMR_Inverted_index_Unit_Testing.csproj", "{DA98535A-B41B-46A0-A5AF-A194A171990E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F54CD94-8D18-4763-8ADB-1AFA692377ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F54CD94-8D18-4763-8ADB-1AFA692377ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F54CD94-8D18-4763-8ADB-1AFA692377ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F54CD94-8D18-4763-8ADB-1AFA692377ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA98535A-B41B-46A0-A5AF-A194A171990E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA98535A-B41B-46A0-A5AF-A194A171990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA98535A-B41B-46A0-A5AF-A194A171990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA98535A-B41B-46A0-A5AF-A194A171990E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

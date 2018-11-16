@@ -1,0 +1,17 @@
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Inverted_Index_Campbell_Reid.exe.config
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Inverted_Index_Campbell_Reid.exe
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Inverted_Index_Campbell_Reid.pdb
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\MainWindow.g.cs
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\App.g.cs
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid_MarkupCompile.cache
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid_MarkupCompile.lref
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\MainWindow.baml
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid.g.resources
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid.Properties.Resources.resources
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid.csproj.GenerateResource.Cache
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid.exe
+C:\Users\Campbell\Documents\Visual Studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Release\Inverted_Index_Campbell_Reid.pdb

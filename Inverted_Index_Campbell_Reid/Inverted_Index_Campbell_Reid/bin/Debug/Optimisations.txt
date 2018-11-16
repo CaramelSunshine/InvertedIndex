@@ -1,0 +1,39 @@
+Initial memory usage of indexing the whole dataset: 7GB
+
+From "bass, e"
+
+Initial Reading:
+
+12.902 seconds		126364 entries		951 MB
+
+After implementing removal of special characters and closing the streamreader:
+
+11.296 seconds		106104 entries		952 MB
+
+After implementing stopword removal:
+
+08.332 seconds		104978 entries		901 MB
+
+After setting all char to lower case:
+
+08.187 seconds		098237 entries		857 MB
+
+After changing the data structure to hold a file ID instead of path:
+
+07.859 seconds		098237 entries		826 MB
+
+After changing the special character removal to remove more characters with a regular expression:
+
+09.533 seconds		081708 entries		684 MB
+
+After modifying the string.split to be more efficient:
+
+09.194 seconds		081708 entries		651 MB
+
+After adding a GarbageCollector call, drastic increase in indexing time; drastic decrease in memory use:
+
+11.514 seconds		081708 entries		460 MB			*UNSURE IF WORTH USING, CURRENTLY: OMITTED*
+
+After simplifying the index updating and implementing a stemmer:
+
+12.473 seconds		074742 entries		540 MB

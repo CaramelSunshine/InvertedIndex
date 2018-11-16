@@ -1,0 +1,50 @@
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.exe.config
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.exe
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.pdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\MainWindow.g.cs
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\App.g.cs
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_MarkupCompile.cache
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_MarkupCompile.lref
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\MainWindow.baml
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.g.resources
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.Properties.Resources.resources
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csproj.GenerateResource.Cache
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.exe
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.pdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csprojResolveAssemblyReference.cache
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.Designer.cs
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xsc
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xsd
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xss
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Words.mdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_Content.g.cs
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.Designer.cs
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xsc
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xsd
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\WordsDataSet.xss
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Words.mdb
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.exe.config
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.exe
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Inverted_Index_Campbell_Reid.pdb
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csprojAssemblyReference.cache
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\MainWindow.g.cs
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\App.g.cs
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_Content.g.cs
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_MarkupCompile.cache
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid_MarkupCompile.lref
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\MainWindow.baml
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.g.resources
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.Properties.Resources.resources
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csproj.GenerateResource.cache
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.csproj.CopyComplete
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.exe
+C:\Users\GGPC\Downloads\Inverted_Index_Campbell_Reid\Inverted_Index_Campbell_Reid\obj\Debug\Inverted_Index_Campbell_Reid.pdb

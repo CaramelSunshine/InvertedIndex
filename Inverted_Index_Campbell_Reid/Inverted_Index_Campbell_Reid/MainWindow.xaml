@@ -1,0 +1,23 @@
+﻿<Window x:Class="Inverted_Index_Campbell_Reid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Inverted_Index_Campbell_Reid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="762" Width="941">
+    <Grid>
+        <TextBox x:Name="rootFolderDisplay" HorizontalAlignment="Left" Height="20" Margin="25,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" IsReadOnly="True"/>
+        <Button x:Name="selectFolderButton" Content="Select Folder" HorizontalAlignment="Left" Margin="385,40,0,0" VerticalAlignment="Top" Width="90" Click="selectFolderButton_Click"/>
+        <TextBox x:Name="searchParams" HorizontalAlignment="Left" Height="20" Margin="25,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330"/>
+        <Button x:Name="searchButton" Content="Search" HorizontalAlignment="Left" Margin="385,100,0,0" VerticalAlignment="Top" Width="90" Click="searchButton_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="580" Margin="25,141,0,0" VerticalAlignment="Top" Width="879"/>
+        <CheckBox x:Name="synonymsBox" Content="Search for synonyms" HorizontalAlignment="Left" Margin="518,40,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox x:Name="stemmingBox" Content="Stem words" HorizontalAlignment="Left" Margin="518,70,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="and_Button" Content="AND" HorizontalAlignment="Left" Margin="803,40,0,0" VerticalAlignment="Top" GroupName="sType" IsChecked="True"/>
+        <TextBlock x:Name="Search_type" HorizontalAlignment="Left" Margin="711,38,0,0" TextWrapping="Wrap" Text="Search type:" VerticalAlignment="Top"/>
+        <RadioButton x:Name="or_Button" Content="OR" HorizontalAlignment="Left" Margin="803,70,0,0" VerticalAlignment="Top" GroupName="sType"/>
+        <RadioButton x:Name="xor" Content="XOR" HorizontalAlignment="Left" Margin="803,100,0,0" VerticalAlignment="Top" GroupName="sType"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\WordsDataSet.Designer.cs
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\WordsDataSet.xsc
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\WordsDataSet.xsd
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\WordsDataSet.xss
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\Words.mdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\CMR_Inverted_index_Unit_Testing.dll
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\CMR_Inverted_index_Unit_Testing.pdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\Inverted_Index_Campbell_Reid.exe
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\Inverted_Index_Campbell_Reid.pdb
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\obj\Debug\CMR_Inverted_index_Unit_Testing.csprojResolveAssemblyReference.cache
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\obj\Debug\CMR_Inverted_index_Unit_Testing.dll
+C:\Users\Campbell\documents\visual studio 2015\Projects\Inverted_Index_Campbell_Reid\CMR_Inverted_index_Unit_Testing\obj\Debug\CMR_Inverted_index_Unit_Testing.pdb
